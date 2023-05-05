@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mir-Hossain
-- 👀 I’m interested in Flutter & Laravel Framework. 
+- 👀 I’m interested in Flutter Framework. 
 - 🌱 I’m currently learning flutter application development. 
 - 💞️ I’m looking to collaborate on a friendly team.
 - 📫 How to reach me.. See Below.
